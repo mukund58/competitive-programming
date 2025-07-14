@@ -13,6 +13,7 @@ Each file is named as:
 | 3 |[1805A - Need Zero](https://codeforces.com/problemset/problem/1805/A) |800| [1805A-Need-Zero.cpp](1805A-Need-Zero.cpp)|
 | 4 | [1791C - Prepend and Append](https://codeforces.com/problemset/problem/1791/C) | 800 | [1791C-Prepend.cpp](1791C-Prepend.cpp) |
 | 5  | [1789A - Serval and Mochas](https://codeforces.com/problemset/problem/1789/A) | 800 | [1789A-Serval-and-Mochas.cpp](1789A-serval-and-mochas-array.cpp) |
+| 6 | [1788A - one and two](https://codeforces.com/problemset/problem/1788/A) | 800 | [1788A-one-and-two.cpp](1788A-one-and-two.cpp) |
 ---
 
 ✅ **Languages Used:** C++ 
