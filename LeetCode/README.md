@@ -13,6 +13,7 @@ Each file is named as:
 | 3 | [0015 - 3Sum](https://leetcode.com/problems/3sum/) | Medium | [0015-3sum.cpp](0015-3sum.cpp) |
 | 4 | [0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [0206-Reverse-Linked-List.cpp](0206-Reverse-Linked-List.cpp) |
 | 5 | [0022 - Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [0022-Generate-Parentheses.cpp](0022-generate-parentheses.cpp) |
+| 6 | [0347 - Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [0347-Top-K-Frequent-Elements.cpp](0347-top-k-frequent-elements.cpp) |
 ---
 
 ✅ **Languages Used:** C++ 
