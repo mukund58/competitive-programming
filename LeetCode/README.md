@@ -14,6 +14,7 @@ Each file is named as:
 | 4 | [0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [0206-Reverse-Linked-List.cpp](0206-Reverse-Linked-List.cpp) |
 | 5 | [0022 - Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [0022-Generate-Parentheses.cpp](0022-generate-parentheses.cpp) |
 | 6 | [0347 - Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [0347-Top-K-Frequent-Elements.cpp](0347-top-k-frequent-elements.cpp) |
+| 7 | [0020 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [0020-Valid-Parentheses.cpp](0020-Valid-Parentheses.cpp) |
 ---
 
 ✅ **Languages Used:** C++ 
