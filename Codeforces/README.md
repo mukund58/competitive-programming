@@ -14,6 +14,7 @@ Each file is named as:
 | 4 | [1791C - Prepend and Append](https://codeforces.com/problemset/problem/1791/C) | 800 | [1791C-Prepend.cpp](1791C-Prepend.cpp) |
 | 5  | [1789A - Serval and Mochas](https://codeforces.com/problemset/problem/1789/A) | 800 | [1789A-Serval-and-Mochas.cpp](1789A-serval-and-mochas-array.cpp) |
 | 6 | [1788A - one and two](https://codeforces.com/problemset/problem/1788/A) | 800 | [1788A-one-and-two.cpp](1788A-one-and-two.cpp) |
+| 7 | [1862B - Sequence Game](https://codeforces.com/problemset/problem/1862/B) | 800 | [1862B-Sequence-Game.cpp](1862B-sequence-game.cpp) |
 ---
 
 ✅ **Languages Used:** C++ 
