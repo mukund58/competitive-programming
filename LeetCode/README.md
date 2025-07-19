@@ -15,6 +15,8 @@ Each file is named as:
 | 5 | [0022 - Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [0022-Generate-Parentheses.cpp](0022-generate-parentheses.cpp) |
 | 6 | [0347 - Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [0347-Top-K-Frequent-Elements.cpp](0347-top-k-frequent-elements.cpp) |
 | 7 | [0020 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [0020-Valid-Parentheses.cpp](0020-Valid-Parentheses.cpp) |
+| 8 | [0167 - Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [0167-Two-Sum-II-Input-Array-Is-Sorted.cpp](0167-Two-Sum-II-Input-Array-Is-Sorted.cpp) |
+| 9 | [0155 - Min Stack](https://leetcode.com/problems/min-stack/) | Easy | [0155-Min-Stack.cpp](0155-Min-Stack.cpp) |
 ---
 
 ✅ **Languages Used:** C++ 
